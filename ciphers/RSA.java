@@ -10,7 +10,7 @@ public class RSA {
     private BigInteger modulus, privateKey, publicKey;
 
     public RSA(int bits) {
-        generateKeys(bits);
+            generateKeys(bits);
     }
 
     public synchronized String encrypt(String message) {
