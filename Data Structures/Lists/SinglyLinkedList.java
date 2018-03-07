@@ -20,7 +20,7 @@ class SinglyLinkedList{
 	 * Constructor of SinglyLinkedList
 	 */
 	public SinglyLinkedList(){
-		head = null;
+		 	head = null;
 	}
 
 	/**
