@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class FibToN {
-
 	public static void main(String[] args) {
 		//take input
 		Scanner scn = new Scanner(System.in);
