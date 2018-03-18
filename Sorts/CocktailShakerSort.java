@@ -1,7 +1,7 @@
 
 /**
  *
- * @author Mateus Bizzo (https://github.com/MattBizzo
+ * @author Mateus Bizzo (https://github.com/MattBizzo)
  *
  */
 
