@@ -25,7 +25,8 @@ public class HeapSort {
 
     /**
      * Setter for variable size
-     *  
+     * 
+     * 
      * @param length new size
      */
     private void setSize(int length) {
