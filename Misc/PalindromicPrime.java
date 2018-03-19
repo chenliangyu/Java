@@ -32,7 +32,7 @@ public class PalindromePrime {
             int num = 2;
             while(count < y){
                 if(prime(num) && num == reverse(num)){ // number is prime and it's reverse is same
-                    count++; // counts check when to terminate while loop
+                    count++; // check when to terminate while loop
                     System.out.print(num + "\n"); // Print the Palindromic Prime
                 }
                 num++; // inrease iterator value by one
