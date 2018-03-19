@@ -1,4 +1,4 @@
-<<<<<<< HEAD:Data Structures/HashMap/HashMap.java
+
 
 
 import java.util.ArrayList;
