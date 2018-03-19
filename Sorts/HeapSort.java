@@ -8,9 +8,9 @@ import java.util.Scanner;
  *
  */
 public class HeapSort {
-    /** Array to store heap */
+    /* Array to store heap */
     private int[] heap;
-    /** The size of the heap */
+    /* The size of the heap */
     private int size;
 
     /**
